@@ -8,45 +8,56 @@
 #define __CHECKERROR_H__
 
 #include <stdio.h>
+#ifdef WIN32
+#include <windows.h>
 #include <GL/gl.h>
+#elif defined(__APPLE__) || defined(__APPLE_CC__)
+/*	I can't test this Apple stuff!	*/
+#include <OpenGL/gl.h>
+#include <Carbon/Carbon.h>
+#endif
 
 //----------------------------------------------------------------------------
 
-static const char*
-ErrorString( GLenum error )
+static const char *
+ErrorString(GLenum error)
 {
-    const char*  msg;
-    switch( error ) {
-#define Case( Token )  case Token: msg = #Token; break;
-	Case( GL_NO_ERROR );
-	Case( GL_INVALID_VALUE );
-	Case( GL_INVALID_ENUM );
-	Case( GL_INVALID_OPERATION );
-	Case( GL_STACK_OVERFLOW );
-	Case( GL_STACK_UNDERFLOW );
-	Case( GL_OUT_OF_MEMORY );
-#undef Case	
-    }
+	const char *msg;
+	switch (error)
+	{
+#define Case(Token)   \
+	case Token:       \
+		msg = #Token; \
+		break;
+		Case(GL_NO_ERROR);
+		Case(GL_INVALID_VALUE);
+		Case(GL_INVALID_ENUM);
+		Case(GL_INVALID_OPERATION);
+		Case(GL_STACK_OVERFLOW);
+		Case(GL_STACK_UNDERFLOW);
+		Case(GL_OUT_OF_MEMORY);
+#undef Case
+	}
 
-    return msg;
+	return msg;
 }
 
 //----------------------------------------------------------------------------
 
 static void
-_CheckError( const char* file, int line )
+_CheckError(const char *file, int line)
 {
-    GLenum  error = glGetError();
+	GLenum error = glGetError();
 
-    do {
-	fprintf( stderr, "[%s:%d] %s\n", file, line, ErrorString(error) );
-    } while ((error = glGetError()) != GL_NO_ERROR );
-	
+	do
+	{
+		fprintf(stderr, "[%s:%d] %s\n", file, line, ErrorString(error));
+	} while ((error = glGetError()) != GL_NO_ERROR);
 }
 
 //----------------------------------------------------------------------------
 
-#define CheckError()  _CheckError( __FILE__, __LINE__ )
+#define CheckError() _CheckError(__FILE__, __LINE__)
 
 //----------------------------------------------------------------------------
 
