@@ -1,0 +1,113 @@
+﻿  CubeGLEW.cpp
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\Angel.h(64,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\mat.h(698,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\mat.h(699,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\mat.h(700,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\mat.h(721,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\mat.h(723,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\mat.h(726,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\mat.h(743,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\Shape.h(167,10): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  (compiling source file 'CubeGLEW.cpp')
+  
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(16,16): warning C4091: 'typedef ': ignored on left of 'Sphere' when no variable is declared
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(53,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(53,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(53,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(57,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(57,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(57,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(58,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(58,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(58,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(59,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(59,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(59,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(60,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(62,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(62,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(62,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(63,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(63,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(63,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(64,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(64,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(64,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(65,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(67,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(67,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(67,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(68,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(68,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(68,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(69,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(69,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(69,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(70,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(72,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(72,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(73,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(74,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(74,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(74,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(77,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(77,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(77,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(78,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(78,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(78,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(79,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(79,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(79,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(80,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(311,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(319,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(320,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(321,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(322,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(323,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(324,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(338,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(340,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(341,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(343,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(348,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(349,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(353,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(354,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(360,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(362,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(363,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(365,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(370,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(371,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(375,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(376,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(521,44): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(541,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(541,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(542,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(558,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(558,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(558,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(576,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(576,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(576,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\FirstApp\CubeGLEW.cpp(800,22): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  FirstApp.vcxproj -> C:\Users\jbcas\Desktop\Graphics\Cube 1.6\CubeGLEW\Debug\CubeGLEW.exe
